@@ -8,13 +8,5 @@ launch:
 
 access:
 http://[servername]:3333/auth/top
-<<<<<<< HEAD
 
 enter your openid url.
-=======
-<<<<<<< HEAD
-
-enter your openid url.
-=======
->>>>>>> 5e293e9298917b5c39a1ba9d6f1a3a84b04af218
->>>>>>> 04b793736e8ababfbd7f423f912e3469490cf829
